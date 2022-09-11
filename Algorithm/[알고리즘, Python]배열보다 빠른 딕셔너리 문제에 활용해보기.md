@@ -1,5 +1,7 @@
 # 글을 쓰게된 이유
 
+[https://www.notion.so/80000coding/Python-27440f94daba431684cf47266f7d7fea]
+
 [https://github.com/rlaalstn0107/Study/commit/74a87286df1a39e400d48c76cf7115fbe34c53c6](https://github.com/rlaalstn0107/Study/commit/74a87286df1a39e400d48c76cf7115fbe34c53c6)
 
 [https://github.com/rlaalstn0107/Study/commit/106101b73dbc9017c030c61bbbe092db4ac67ea3](https://github.com/rlaalstn0107/Study/commit/106101b73dbc9017c030c61bbbe092db4ac67ea3)
